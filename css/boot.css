@@ -92,6 +92,13 @@ h1{
 .java{
     background: #ff5400;
 }
+
+.jobs{
+    padding: 20px;
+    margin: 40px;
+    border-radius: 20px;
+    background: #f5cac3;
+}
 .carousel{
     width: 100%;
     margin: 40px auto;
@@ -105,12 +112,6 @@ h1{
     .carousel{
         width: 40%;
     }
-}
-.jobs{
-    padding: 20px;
-    margin: 40px;
-    border-radius: 20px;
-    background: #f5cac3;
 }
 .grid{
     display: grid;
@@ -167,6 +168,7 @@ span{
     justify-content: space-evenly;
     align-items: center;
     background: #f5cac3;
+    
 }
 .foot__img{
     margin: 40px 0;
